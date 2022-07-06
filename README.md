@@ -1,2 +1,2 @@
 # var-resources
-PUBLIC REPOSITORY. DO NOT UPLOAD ANYTHING VALUABLE HERE.
+Resources for var
